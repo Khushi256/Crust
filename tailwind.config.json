@@ -1,0 +1,21 @@
+{
+  "content": [
+    "./src/**/*.{js,jsx,ts,tsx,html}",
+    "./pages/**/*.{js,jsx,ts,tsx}",
+    "./components/**/*.{js,jsx,ts,tsx}"
+  ],
+  "theme": {
+    "extend": {
+      "fontFamily": {
+        "sans": ["Inter"],
+        "serif": ["Playfair Display"],
+        "heading": ["Bodoni Moda", "serif"]
+      },
+      "colors": {
+        "primary": "#0D1B2A",
+        "accent": "#F4E8D7"
+      }
+    }
+  },
+  "plugins": []
+}
