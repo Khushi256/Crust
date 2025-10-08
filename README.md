@@ -28,7 +28,7 @@ It blends creativity and performance with **DaisyUI**, **ReactBits**, **Aceterni
 
 ---
 
-## 🎥 Demo
+##  Demo
 
 Watch the demo video below 👇  
 
@@ -36,7 +36,7 @@ https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
 
 ---
 
-## 📦 Installation
+##  Installation
 
 Follow these steps to run the project locally:
 
@@ -52,7 +52,25 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
+```
+##  Acknowledgements
 
+I would like to express my gratitude to the following open-source projects and tools that made **Crust** possible:
+
+-  [**DaisyUI**](https://daisyui.com/) 
+-  [**ReactBits**](https://reactbits.dev/) 
+-  [**Aceternity UI**](https://ui.aceternity.com/)
+-  [**Origin UI**](https://originui.com/)
+-  [**Framer Motion**](https://www.framer.com/motion/) 
+
+These tools helped streamline development, improve aesthetics, and enhance the overall interactivity of the project.
+
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and build upon this project — even for commercial purposes — as long as proper credit is given to the original author.
 
 
 
