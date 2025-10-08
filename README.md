@@ -32,9 +32,7 @@ It blends creativity and performance with **DaisyUI**, **ReactBits**, **Aceterni
 
 Watch the demo video below 👇  
 
-<video src="Crust-demo.mp4" width="700" controls></video>[!demo]
-
-*(If the above link doesn’t work, the demo video is available in the repository under `/Crust-demo.mp4`.)*
+https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
 
 ---
 
@@ -54,6 +52,7 @@ npm install
 
 # 4️⃣ Run the development server
 npm run dev
+
 
 
 
