@@ -42,7 +42,7 @@ Follow these steps to run the project locally:
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/<your-username>/crust.git
+git clone https://github.com/Khushi256/crust.git
 
 # 2️⃣ Move into the project folder
 cd crust
@@ -71,6 +71,7 @@ These tools helped streamline development, improve aesthetics, and enhance the o
 This project is licensed under the **MIT License**.
 
 You are free to use, modify, distribute, and build upon this project — even for commercial purposes — as long as proper credit is given to the original author.
+
 
 
 
