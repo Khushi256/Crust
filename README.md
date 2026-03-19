@@ -63,7 +63,7 @@ I would like to express my gratitude to the following open-source projects and t
 These tools helped streamline development, improve aesthetics, and enhance the overall interactivity of the project.
 
 
-## 📜 License
+## License
 
 This project is licensed under the **MIT License**.
 
