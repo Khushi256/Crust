@@ -1,9 +1,15 @@
-#  Crust — Modern Single Page Website
+#  Crust - Modern Single Page Website
 
 Crust is a sleek and responsive **single-page website** built with modern UI libraries to deliver a beautiful and interactive experience.  
 It blends creativity and performance with **DaisyUI**, **ReactBits**, **Aceternity UI**, and **Origin UI** components — ensuring smooth animations, elegant layouts, and fully responsive design.
 
----
+
+##  Demo
+
+Watch the demo video below 👇  
+
+https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
+
 
 ##  Features
 
@@ -14,7 +20,6 @@ It blends creativity and performance with **DaisyUI**, **ReactBits**, **Aceterni
 -  Clean, modular code structure for easy scalability  
 -  Built for performance and aesthetic precision  
 
----
 
 ##  Tech Stack
 
@@ -26,15 +31,7 @@ It blends creativity and performance with **DaisyUI**, **ReactBits**, **Aceterni
 | **Animation** | Framer Motion |
 | **Language** | JavaScript (ES6+) |
 
----
 
-##  Demo
-
-Watch the demo video below 👇  
-
-https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
-
----
 
 ##  Installation
 
@@ -70,7 +67,7 @@ These tools helped streamline development, improve aesthetics, and enhance the o
 
 This project is licensed under the **MIT License**.
 
-You are free to use, modify, distribute, and build upon this project — even for commercial purposes — as long as proper credit is given to the original author.
+You are free to use, modify, distribute, and build upon this project - even for commercial purposes - as long as proper credit is given to the original author.
 
 
 
