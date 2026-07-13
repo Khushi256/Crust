@@ -37,16 +37,16 @@ https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
 Follow these steps to run the project locally:
 
 ```bash
-# 1️⃣ Clone the repository
+# 1️. Clone the repository
 git clone https://github.com/Khushi256/crust.git
 
-# 2️⃣ Move into the project folder
+# 2️. Move into the project folder
 cd crust
 
-# 3️⃣ Install dependencies
+# 3️. Install dependencies
 npm install
 
-# 4️⃣ Run the development server
+# 4️. Run the development server
 npm run dev
 ```
 ##  Acknowledgements
