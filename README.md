@@ -16,7 +16,6 @@ https://github.com/user-attachments/assets/e8aa4948-c6dd-453d-be41-9061d25f3813
 -  **Single Page Application (SPA)** built with React  
 -  Beautiful and customizable UI components from multiple libraries  
 -  Seamless animations and modern transitions  
--  Fully responsive across devices  
 -  Clean, modular code structure for easy scalability  
 -  Built for performance and aesthetic precision  
 
